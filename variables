@@ -1,0 +1,8 @@
+#!/bin/bash
+# Assign the variables.
+name="Sebastian"
+home_type="house"
+LOCATION="Utrecht"
+
+# Print the story
+echo "${name} lives in a ${home_type} in ${LOCATION}"
