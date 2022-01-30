@@ -5,4 +5,4 @@ home_type="house"
 LOCATION="Utrecht"
 
 # Print the story
-echo "${name} lives in a ${home_type} in ${LOCATION}"
+echo "$name lives in a ${home_type} in ${LOCATION}"
